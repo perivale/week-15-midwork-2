@@ -1,0 +1,130 @@
+2022-05-18 11:05:82 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 11:05:783 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 11:05:862 INFO  Homepage :31 - enter on username[[ChromeDriver: chrome on WINDOWS (fae3b4717548ccdf113d1936d561f69d)] -> id: user-name]
+2022-05-18 11:05:62 INFO  Homepage :35 - enter on password[[ChromeDriver: chrome on WINDOWS (fae3b4717548ccdf113d1936d561f69d)] -> id: password]
+2022-05-18 11:05:208 INFO  Homepage :39 - click on login button[[ChromeDriver: chrome on WINDOWS (fae3b4717548ccdf113d1936d561f69d)] -> id: login-button]
+2022-05-18 11:05:728 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 11:05:30 INFO  Homepage :31 - enter on username[[ChromeDriver: chrome on WINDOWS (3105a818ce1227357334a33a1fc42989)] -> id: user-name]
+2022-05-18 11:05:197 INFO  Homepage :35 - enter on password[[ChromeDriver: chrome on WINDOWS (3105a818ce1227357334a33a1fc42989)] -> id: password]
+2022-05-18 11:05:329 INFO  Homepage :39 - click on login button[[ChromeDriver: chrome on WINDOWS (3105a818ce1227357334a33a1fc42989)] -> id: login-button]
+2022-05-18 11:05:738 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 11:05:110 INFO  Homepage :31 - enter on username[[ChromeDriver: chrome on WINDOWS (b077ee5ef33e9a6aaa36920e53268146)] -> id: user-name]
+2022-05-18 11:05:279 INFO  Homepage :35 - enter on password[[ChromeDriver: chrome on WINDOWS (b077ee5ef33e9a6aaa36920e53268146)] -> id: password]
+2022-05-18 11:05:405 INFO  Homepage :39 - click on login button[[ChromeDriver: chrome on WINDOWS (b077ee5ef33e9a6aaa36920e53268146)] -> id: login-button]
+2022-05-18 11:05:873 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 11:05:72 INFO  Homepage :31 - enter on username[[ChromeDriver: chrome on WINDOWS (dca8f8847b70183d43b4fd4e432f8055)] -> id: user-name]
+2022-05-18 11:05:245 INFO  Homepage :35 - enter on password[[ChromeDriver: chrome on WINDOWS (dca8f8847b70183d43b4fd4e432f8055)] -> id: password]
+2022-05-18 11:05:410 INFO  Homepage :39 - click on login button[[ChromeDriver: chrome on WINDOWS (dca8f8847b70183d43b4fd4e432f8055)] -> id: login-button]
+2022-05-18 12:05:472 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 12:05:453 INFO  Homepage :32 - enter on username[[ChromeDriver: chrome on WINDOWS (d1229eadb3272b8b8c8d37dab50aa338)] -> id: user-name]
+2022-05-18 12:05:543 INFO  Homepage :36 - enter on password[[ChromeDriver: chrome on WINDOWS (d1229eadb3272b8b8c8d37dab50aa338)] -> id: password]
+2022-05-18 12:05:627 INFO  Homepage :40 - click on login button[[ChromeDriver: chrome on WINDOWS (d1229eadb3272b8b8c8d37dab50aa338)] -> id: login-button]
+2022-05-18 13:05:382 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 13:05:656 INFO  Homepage :32 - enter on username[[ChromeDriver: chrome on WINDOWS (597f154c68d45ab03d42534296d4009b)] -> id: user-name]
+2022-05-18 13:05:806 INFO  Homepage :36 - enter on password[[ChromeDriver: chrome on WINDOWS (597f154c68d45ab03d42534296d4009b)] -> id: password]
+2022-05-18 13:05:986 INFO  Homepage :40 - click on login button[[ChromeDriver: chrome on WINDOWS (597f154c68d45ab03d42534296d4009b)] -> id: login-button]
+2022-05-18 21:05:55 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 21:05:770 INFO  Homepage :32 - enter on username[[ChromeDriver: chrome on WINDOWS (7684e7c4be1d68163a5ed26e9eb62f07)] -> id: user-name]
+2022-05-18 21:05:18 INFO  Homepage :36 - enter on password[[ChromeDriver: chrome on WINDOWS (7684e7c4be1d68163a5ed26e9eb62f07)] -> id: password]
+2022-05-18 21:05:250 INFO  Homepage :40 - click on login button[[ChromeDriver: chrome on WINDOWS (7684e7c4be1d68163a5ed26e9eb62f07)] -> id: login-button]
+2022-05-18 21:05:12 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 21:05:556 INFO  Homepage :32 - enter on username[[ChromeDriver: chrome on WINDOWS (ef3f57a6657bfcc752cdbab6ffb6afe9)] -> id: user-name]
+2022-05-18 21:05:748 INFO  Homepage :36 - enter on password[[ChromeDriver: chrome on WINDOWS (ef3f57a6657bfcc752cdbab6ffb6afe9)] -> id: password]
+2022-05-18 21:05:896 INFO  Homepage :40 - click on login button[[ChromeDriver: chrome on WINDOWS (ef3f57a6657bfcc752cdbab6ffb6afe9)] -> id: login-button]
+2022-05-18 21:05:164 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 21:05:858 INFO  Homepage :32 - enter on username[[ChromeDriver: chrome on WINDOWS (e85ef5bd05d35e4c8d59344673364b71)] -> id: user-name]
+2022-05-18 21:05:126 INFO  Homepage :36 - enter on password[[ChromeDriver: chrome on WINDOWS (e85ef5bd05d35e4c8d59344673364b71)] -> id: password]
+2022-05-18 21:05:568 INFO  Homepage :40 - click on login button[[ChromeDriver: chrome on WINDOWS (e85ef5bd05d35e4c8d59344673364b71)] -> id: login-button]
+2022-05-18 21:05:64 INFO  ProductPage :43 - click on pro filter[[ChromeDriver: chrome on WINDOWS (e85ef5bd05d35e4c8d59344673364b71)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]
+2022-05-19 11:05:798 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 11:05:15 INFO  Homepage :32 - enter on username[[ChromeDriver: chrome on WINDOWS (f876faf84af3104976cbc4b4f0671922)] -> id: user-name]
+2022-05-19 11:05:108 INFO  Homepage :36 - enter on password[[ChromeDriver: chrome on WINDOWS (f876faf84af3104976cbc4b4f0671922)] -> id: password]
+2022-05-19 11:05:265 INFO  Homepage :40 - click on login button[[ChromeDriver: chrome on WINDOWS (f876faf84af3104976cbc4b4f0671922)] -> id: login-button]
+2022-05-19 11:05:385 INFO  ProductPage :43 - click on pro filter[[ChromeDriver: chrome on WINDOWS (f876faf84af3104976cbc4b4f0671922)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]
+2022-05-19 11:05:556 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 11:05:938 INFO  Homepage :32 - enter on username[[ChromeDriver: chrome on WINDOWS (778a8ea218d7dd076f10d075d866a016)] -> id: user-name]
+2022-05-19 11:05:26 INFO  Homepage :36 - enter on password[[ChromeDriver: chrome on WINDOWS (778a8ea218d7dd076f10d075d866a016)] -> id: password]
+2022-05-19 11:05:218 INFO  Homepage :40 - click on login button[[ChromeDriver: chrome on WINDOWS (778a8ea218d7dd076f10d075d866a016)] -> id: login-button]
+2022-05-19 11:05:363 INFO  ProductPage :43 - click on pro filter[[ChromeDriver: chrome on WINDOWS (778a8ea218d7dd076f10d075d866a016)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]
+2022-05-19 17:05:707 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 17:05:265 INFO  Homepage :32 - enter on username[[ChromeDriver: chrome on WINDOWS (24020d4f3ad9530276bb405c3f8efc2c)] -> id: user-name]
+2022-05-19 17:05:486 INFO  Homepage :36 - enter on password[[ChromeDriver: chrome on WINDOWS (24020d4f3ad9530276bb405c3f8efc2c)] -> id: password]
+2022-05-19 17:05:773 INFO  Homepage :40 - click on login button[[ChromeDriver: chrome on WINDOWS (24020d4f3ad9530276bb405c3f8efc2c)] -> id: login-button]
+2022-05-19 17:05:164 INFO  ProductPage :43 - click on pro filter[[ChromeDriver: chrome on WINDOWS (24020d4f3ad9530276bb405c3f8efc2c)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]
+2022-05-19 17:05:60 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 17:05:675 INFO  Homepage :32 - enter on username[[ChromeDriver: chrome on WINDOWS (297e1ff207729d82cda1bd5470bb82d0)] -> id: user-name]
+2022-05-19 17:05:818 INFO  Homepage :36 - enter on password[[ChromeDriver: chrome on WINDOWS (297e1ff207729d82cda1bd5470bb82d0)] -> id: password]
+2022-05-19 17:05:89 INFO  Homepage :40 - click on login button[[ChromeDriver: chrome on WINDOWS (297e1ff207729d82cda1bd5470bb82d0)] -> id: login-button]
+2022-05-19 17:05:358 INFO  ProductPage :43 - click on pro filter[[ChromeDriver: chrome on WINDOWS (297e1ff207729d82cda1bd5470bb82d0)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]
+2022-05-19 17:05:31 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 17:05:50 INFO  Homepage :32 - enter on username[[ChromeDriver: chrome on WINDOWS (c25f901fc502218386e62ba99ac9afd7)] -> id: user-name]
+2022-05-19 17:05:185 INFO  Homepage :36 - enter on password[[ChromeDriver: chrome on WINDOWS (c25f901fc502218386e62ba99ac9afd7)] -> id: password]
+2022-05-19 17:05:393 INFO  Homepage :40 - click on login button[[ChromeDriver: chrome on WINDOWS (c25f901fc502218386e62ba99ac9afd7)] -> id: login-button]
+2022-05-19 17:05:553 INFO  ProductPage :43 - click on pro filter[[ChromeDriver: chrome on WINDOWS (c25f901fc502218386e62ba99ac9afd7)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]
+2022-05-19 17:05:390 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 17:05:469 INFO  Homepage :32 - enter on username[[ChromeDriver: chrome on WINDOWS (30bea329c1baeb47d44995cf29a80814)] -> id: user-name]
+2022-05-19 17:05:633 INFO  Homepage :36 - enter on password[[ChromeDriver: chrome on WINDOWS (30bea329c1baeb47d44995cf29a80814)] -> id: password]
+2022-05-19 17:05:880 INFO  Homepage :40 - click on login button[[ChromeDriver: chrome on WINDOWS (30bea329c1baeb47d44995cf29a80814)] -> id: login-button]
+2022-05-19 18:05:298 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 18:05:525 INFO  Homepage :32 - enter on username[[ChromeDriver: chrome on WINDOWS (47803fe14cfd508a797a8a79f46e933c)] -> id: user-name]
+2022-05-19 18:05:663 INFO  Homepage :36 - enter on password[[ChromeDriver: chrome on WINDOWS (47803fe14cfd508a797a8a79f46e933c)] -> id: password]
+2022-05-19 18:05:924 INFO  Homepage :40 - click on login button[[ChromeDriver: chrome on WINDOWS (47803fe14cfd508a797a8a79f46e933c)] -> id: login-button]
+2022-05-19 18:05:265 INFO  ProductPage :43 - click on pro filter[[ChromeDriver: chrome on WINDOWS (47803fe14cfd508a797a8a79f46e933c)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]
+2022-05-19 18:05:02 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 18:05:06 INFO  Homepage :32 - enter on username[[ChromeDriver: chrome on WINDOWS (17fd9f74e3e7b5ad997f4334840171d6)] -> id: user-name]
+2022-05-19 18:05:85 INFO  Homepage :36 - enter on password[[ChromeDriver: chrome on WINDOWS (17fd9f74e3e7b5ad997f4334840171d6)] -> id: password]
+2022-05-19 18:05:220 INFO  Homepage :40 - click on login button[[ChromeDriver: chrome on WINDOWS (17fd9f74e3e7b5ad997f4334840171d6)] -> id: login-button]
+2022-05-19 18:05:526 INFO  ProductPage :43 - click on pro filter[[ChromeDriver: chrome on WINDOWS (17fd9f74e3e7b5ad997f4334840171d6)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]
+2022-05-20 10:05:310 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 10:05:945 INFO  Homepage :32 - enter on username[[ChromeDriver: chrome on WINDOWS (287cd52b09d23504a68623a4e6fd3da1)] -> id: user-name]
+2022-05-20 10:05:101 INFO  Homepage :36 - enter on password[[ChromeDriver: chrome on WINDOWS (287cd52b09d23504a68623a4e6fd3da1)] -> id: password]
+2022-05-20 10:05:343 INFO  Homepage :40 - click on login button[[ChromeDriver: chrome on WINDOWS (287cd52b09d23504a68623a4e6fd3da1)] -> id: login-button]
+2022-05-20 10:05:579 INFO  ProductPage :48 - click on pro filter[[ChromeDriver: chrome on WINDOWS (287cd52b09d23504a68623a4e6fd3da1)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]
+2022-05-20 10:05:329 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 10:05:429 INFO  Homepage :32 - enter on username[[ChromeDriver: chrome on WINDOWS (836b72a124ee7ccfb3a11b07853417f4)] -> id: user-name]
+2022-05-20 10:05:579 INFO  Homepage :36 - enter on password[[ChromeDriver: chrome on WINDOWS (836b72a124ee7ccfb3a11b07853417f4)] -> id: password]
+2022-05-20 10:05:819 INFO  Homepage :40 - click on login button[[ChromeDriver: chrome on WINDOWS (836b72a124ee7ccfb3a11b07853417f4)] -> id: login-button]
+2022-05-20 10:05:140 INFO  ProductPage :48 - click on pro filter[[ChromeDriver: chrome on WINDOWS (836b72a124ee7ccfb3a11b07853417f4)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]
+2022-05-20 10:05:886 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 10:05:92 INFO  Homepage :32 - enter on username[[ChromeDriver: chrome on WINDOWS (fa1ec21ed5692616963dd67b580f7568)] -> id: user-name]
+2022-05-20 10:05:244 INFO  Homepage :36 - enter on password[[ChromeDriver: chrome on WINDOWS (fa1ec21ed5692616963dd67b580f7568)] -> id: password]
+2022-05-20 10:05:480 INFO  Homepage :40 - click on login button[[ChromeDriver: chrome on WINDOWS (fa1ec21ed5692616963dd67b580f7568)] -> id: login-button]
+2022-05-20 10:05:676 INFO  ProductPage :52 - click on pro filter[[ChromeDriver: chrome on WINDOWS (fa1ec21ed5692616963dd67b580f7568)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]
+2022-05-20 11:05:407 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 11:05:536 INFO  Homepage :32 - enter on username[[ChromeDriver: chrome on WINDOWS (81816b36aa74887a98365595a18ca35b)] -> id: user-name]
+2022-05-20 11:05:682 INFO  Homepage :36 - enter on password[[ChromeDriver: chrome on WINDOWS (81816b36aa74887a98365595a18ca35b)] -> id: password]
+2022-05-20 11:05:910 INFO  Homepage :40 - click on login button[[ChromeDriver: chrome on WINDOWS (81816b36aa74887a98365595a18ca35b)] -> id: login-button]
+2022-05-20 11:05:98 INFO  ProductPage :52 - click on pro filter[[ChromeDriver: chrome on WINDOWS (81816b36aa74887a98365595a18ca35b)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]
+2022-05-20 11:05:46 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 11:05:830 INFO  Homepage :32 - enter on username[[ChromeDriver: chrome on WINDOWS (9e23e494e48a8c4004add1a2a1a73710)] -> id: user-name]
+2022-05-20 11:05:26 INFO  Homepage :36 - enter on password[[ChromeDriver: chrome on WINDOWS (9e23e494e48a8c4004add1a2a1a73710)] -> id: password]
+2022-05-20 11:05:271 INFO  Homepage :40 - click on login button[[ChromeDriver: chrome on WINDOWS (9e23e494e48a8c4004add1a2a1a73710)] -> id: login-button]
+2022-05-20 11:05:459 INFO  ProductPage :52 - click on pro filter[[ChromeDriver: chrome on WINDOWS (9e23e494e48a8c4004add1a2a1a73710)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]
+2022-05-20 11:05:420 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 11:05:951 INFO  Homepage :32 - enter on username[[ChromeDriver: chrome on WINDOWS (398f90dac1b252d601fc2160443657d1)] -> id: user-name]
+2022-05-20 11:05:128 INFO  Homepage :36 - enter on password[[ChromeDriver: chrome on WINDOWS (398f90dac1b252d601fc2160443657d1)] -> id: password]
+2022-05-20 11:05:371 INFO  Homepage :40 - click on login button[[ChromeDriver: chrome on WINDOWS (398f90dac1b252d601fc2160443657d1)] -> id: login-button]
+2022-05-20 11:05:612 INFO  ProductPage :52 - click on pro filter[[ChromeDriver: chrome on WINDOWS (398f90dac1b252d601fc2160443657d1)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]
+2022-05-20 11:05:643 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 11:05:895 INFO  Homepage :32 - enter on username[[ChromeDriver: chrome on WINDOWS (ed97518b893af6ed2198c4f51cbba5b3)] -> id: user-name]
+2022-05-20 11:05:66 INFO  Homepage :36 - enter on password[[ChromeDriver: chrome on WINDOWS (ed97518b893af6ed2198c4f51cbba5b3)] -> id: password]
+2022-05-20 11:05:326 INFO  Homepage :40 - click on login button[[ChromeDriver: chrome on WINDOWS (ed97518b893af6ed2198c4f51cbba5b3)] -> id: login-button]
+2022-05-20 11:05:633 INFO  ProductPage :52 - click on pro filter[[ChromeDriver: chrome on WINDOWS (ed97518b893af6ed2198c4f51cbba5b3)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]
+2022-05-20 11:05:810 INFO  ProductPage :58 - select product high to low[[ChromeDriver: chrome on WINDOWS (ed97518b893af6ed2198c4f51cbba5b3)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]
+2022-05-20 11:05:695 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 11:05:437 INFO  Homepage :32 - enter on username[[ChromeDriver: chrome on WINDOWS (c06ab86bcc171255378787c2fadd1555)] -> id: user-name]
+2022-05-20 11:05:586 INFO  Homepage :36 - enter on password[[ChromeDriver: chrome on WINDOWS (c06ab86bcc171255378787c2fadd1555)] -> id: password]
+2022-05-20 11:05:832 INFO  Homepage :40 - click on login button[[ChromeDriver: chrome on WINDOWS (c06ab86bcc171255378787c2fadd1555)] -> id: login-button]
+2022-05-20 11:05:137 INFO  ProductPage :52 - click on pro filter[[ChromeDriver: chrome on WINDOWS (c06ab86bcc171255378787c2fadd1555)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]
+2022-05-20 11:05:307 INFO  ProductPage :58 - select product high to low[[ChromeDriver: chrome on WINDOWS (c06ab86bcc171255378787c2fadd1555)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]
+2022-05-20 11:05:215 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 11:05:434 INFO  Homepage :32 - enter on username[[ChromeDriver: chrome on WINDOWS (44a437fd0d2c50417c4bb81beb43218c)] -> id: user-name]
+2022-05-20 11:05:582 INFO  Homepage :36 - enter on password[[ChromeDriver: chrome on WINDOWS (44a437fd0d2c50417c4bb81beb43218c)] -> id: password]
+2022-05-20 11:05:814 INFO  Homepage :40 - click on login button[[ChromeDriver: chrome on WINDOWS (44a437fd0d2c50417c4bb81beb43218c)] -> id: login-button]
+2022-05-20 11:05:106 INFO  ProductPage :52 - click on pro filter[[ChromeDriver: chrome on WINDOWS (44a437fd0d2c50417c4bb81beb43218c)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]
+2022-05-20 11:05:307 INFO  ProductPage :58 - select product high to low[[ChromeDriver: chrome on WINDOWS (44a437fd0d2c50417c4bb81beb43218c)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]
+2022-05-20 11:05:543 INFO  ProductPage :82 - click on add to cart link[[ChromeDriver: chrome on WINDOWS (44a437fd0d2c50417c4bb81beb43218c)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[1]/div[3]/a[1]]
+2022-05-20 11:05:649 INFO  ShopingPage :23 - click on checkout button[[ChromeDriver: chrome on WINDOWS (44a437fd0d2c50417c4bb81beb43218c)] -> xpath: //button[@id='checkout']]
+2022-05-20 11:05:237 INFO  CheckoutPage :52 - click on continue button[[ChromeDriver: chrome on WINDOWS (44a437fd0d2c50417c4bb81beb43218c)] -> xpath: //input[@id='continue']]
+2022-05-20 11:05:338 INFO  CheckoutPage :57 - click on finised button[[ChromeDriver: chrome on WINDOWS (44a437fd0d2c50417c4bb81beb43218c)] -> xpath: //button[@id='finish']]
+2022-05-20 11:05:370 INFO  CheckoutPage :61 - click on get the text thank you message[[ChromeDriver: chrome on WINDOWS (44a437fd0d2c50417c4bb81beb43218c)] -> xpath: //h2[contains(text(),'THANK YOU FOR YOUR ORDER')]]
